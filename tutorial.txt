@@ -1,0 +1,14 @@
+git config --global user.name 'your name '
+git config --global user.email 'name@gmail.com'
+// git start
+git init 
+git add <filename>
+git commit -m "your desired message"
+git pull origin master
+git pus origin mater
+
+
+
+git status
+git diff 
+git log  
